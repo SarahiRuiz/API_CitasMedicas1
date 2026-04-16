@@ -146,3 +146,5 @@ C:\Users\Ana.Ruiz\source\MyTranning\API_CitasMedicas\API_Citas\API_Citas\obj\Deb
 C:\Users\Ana.Ruiz\source\MyTranning\API_CitasMedicas\API_Citas\API_Citas\obj\Debug\net10.0\API_Citas.pdb
 C:\Users\Ana.Ruiz\source\MyTranning\API_CitasMedicas\API_Citas\API_Citas\obj\Debug\net10.0\API_Citas.genruntimeconfig.cache
 C:\Users\Ana.Ruiz\source\MyTranning\API_CitasMedicas\API_Citas\API_Citas\obj\Debug\net10.0\ref\API_Citas.dll
+C:\Users\Ana.Ruiz\source\MyTranning\API_CitasMedicas\API_Citas\API_Citas\obj\Debug\net10.0\API_Citas.sourcelink.json
+C:\Users\Ana.Ruiz\source\MyTranning\API_CitasMedicas\API_Citas\API_Citas\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
